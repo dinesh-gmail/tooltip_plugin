@@ -2,4 +2,6 @@ This is my first file.
 
 Adding text for first commit.
 
-Will test the -u option for git push.
+Will test the -u option for git push
+
+Will go for second commit.
